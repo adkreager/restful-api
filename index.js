@@ -39,6 +39,23 @@ app.get('/grades/:studentId', (req, res) => {
     res.send(student.grades)
 })
 
+app.post('/grades', (req, res) => {
+    /* POST user data using the request body */
+    let studentID = req.body.studentID
+    let newGrade = req.body.grades
+    let notFoundBool = true;
+    for (let i = 0; i < students.length; i++) {
+        if (students[i]['studentId'] === studentID) {
+            students[i].grades.push(newGrade);
+            res.send(`Successfully added new grade to ${student}'s report card.`)
+            notFoundBool = false;
+        }
+    }
+    if (notFoundBool) {
+        res.send('That student does not exist')
+    }
+})
+
 // app.post('/', (req, res) => {
 //     /* POST user data using the request body */
 //     let studentData = req.body
