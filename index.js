@@ -27,6 +27,18 @@ app.get('/students/:studentId', (req, res) => {
     res.send(student)
 })
 
+app.get('/grades/:studentId', (req, res) => {
+    /* GET a user by their id */
+    let studentID = Number(req.params.studentId);
+    let student;
+    for (let i = 0; i < students.length; i++) {
+        if (students[i]['studentId'] === studentID) {
+            student = students[i]
+        }
+    }
+    res.send(student.grades)
+})
+
 // app.post('/', (req, res) => {
 //     /* POST user data using the request body */
 //     let studentData = req.body
