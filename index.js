@@ -15,7 +15,7 @@ const students = require('./students.json')
 //     }
 // })
 
-app.get('/:studentId', (req, res) => {
+app.get('/students/:studentId', (req, res) => {
     /* GET a user by their id */
     let studentID = Number(req.params.studentId);
     let student;
@@ -27,17 +27,17 @@ app.get('/:studentId', (req, res) => {
     res.send(student)
 })
 
-app.post('/user', (req, res) => {
-    /* POST user data using the request body */
-    let userData = req.body
-    let newUser = {"id": userData.id, "name": userData.name, "profilePic": userData.profilePic, "lastCalled": userData.lastCalled, "notes": userData.notes}
-    data.push(newUser)
-    res.send(`Successfully added new user.`)
+// app.post('/', (req, res) => {
+//     /* POST user data using the request body */
+//     let studentData = req.body
+//     let newStudent = {"studentId": studentData.id, "name": studentData.name, "profilePic": studentData.profilePic, "lastCalled": studentData.lastCalled, "grades": studentData.grades}
+//     data.push(newStudent)
+//     res.send(`Successfully added new student.`)
     
-})
+// })
 
-app.get('/data/', (req, res) => {
-    /* GET a user by their name */
-    let name = req.query.name
-    res.send(`Hello, ${name}`)
-})
+// app.get('/data/', (req, res) => {
+//     /* GET a user by their name */
+//     let name = req.query.name
+//     res.send(`Hello, ${name}`)
+// })
