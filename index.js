@@ -15,11 +15,11 @@ const students = require('./students.json')
 //     }
 // })
 
-app.get(':studentId', (req, res) => {
+app.get('/:studentId', (req, res) => {
     /* GET a user by their id */
     let studentID = Number(req.params.studentId);
     let student;
-    for (let i = 0; i < data.length; i++) {
+    for (let i = 0; i < students.length; i++) {
         if (students[i]['studentId'] === studentID) {
             student = students[i]
         }
