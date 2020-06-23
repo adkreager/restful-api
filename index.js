@@ -6,17 +6,19 @@ app.use(express.json())
 app.listen(port, () => console.log(`Example app listening at http://localhost:${port}`))
 const students = require('./students.json')
 
+//Gets all students, or a student by name if a first or last name is specified
+app.get('/students', (req, res) => {
+    let searchItem = req.query.search
+    if (!searchItem) {
+        res.send(students)
+    } else {
+        let filteredData = students.filter(student => student.name.includes(searchItem))
+        res.send(filteredData)
+    }
+})
 
-// app.get('/students', (req, res) => {
-//     if no query {
-//         res.send(students)
-//     } else {
-
-//     }
-// })
-
+//gets a student by student ID
 app.get('/students/:studentId', (req, res) => {
-    /* GET a user by their id */
     let studentID = Number(req.params.studentId);
     let student;
     for (let i = 0; i < students.length; i++) {
@@ -27,8 +29,8 @@ app.get('/students/:studentId', (req, res) => {
     res.send(student)
 })
 
+//gets the grades of a student by student ID
 app.get('/grades/:studentId', (req, res) => {
-    /* GET a user by their id */
     let studentID = Number(req.params.studentId);
     let student;
     for (let i = 0; i < students.length; i++) {
@@ -39,8 +41,8 @@ app.get('/grades/:studentId', (req, res) => {
     res.send(student.grades)
 })
 
+//adds a grade to a student's array of grades based on student ID
 app.post('/grades', (req, res) => {
-    /* POST user data using the request body */
     let studentID = req.body.studentId
     let newGrade = req.body.grades
     let notFoundBool = true;
@@ -56,8 +58,8 @@ app.post('/grades', (req, res) => {
     }
 })
 
+//adds a new student to the roster
 app.post('/register', (req, res) => {
-    /* POST user data using the request body */
     let studentData = req.body
     let newStudent = {"studentId": studentData.id, "name": studentData.name, "profilePic": studentData.profilePic, "lastCalled": studentData.lastCalled, "email": studentData.email, "grades": studentData.grades}
     if (newStudent["name"] && newStudent["email"]) {
@@ -67,18 +69,3 @@ app.post('/register', (req, res) => {
         res.send('You must enter a valid name and email')
     }
 })
-
-// app.post('/', (req, res) => {
-//     /* POST user data using the request body */
-//     let studentData = req.body
-//     let newStudent = {"studentId": studentData.id, "name": studentData.name, "profilePic": studentData.profilePic, "lastCalled": studentData.lastCalled, "grades": studentData.grades}
-//     data.push(newStudent)
-//     res.send(`Successfully added new student.`)
-    
-// })
-
-// app.get('/data/', (req, res) => {
-//     /* GET a user by their name */
-//     let name = req.query.name
-//     res.send(`Hello, ${name}`)
-// })
