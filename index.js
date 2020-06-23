@@ -41,13 +41,13 @@ app.get('/grades/:studentId', (req, res) => {
 
 app.post('/grades', (req, res) => {
     /* POST user data using the request body */
-    let studentID = req.body.studentID
+    let studentID = req.body.studentId
     let newGrade = req.body.grades
     let notFoundBool = true;
     for (let i = 0; i < students.length; i++) {
         if (students[i]['studentId'] === studentID) {
             students[i].grades.push(newGrade);
-            res.send(`Successfully added new grade to ${student}'s report card.`)
+            res.send(`Successfully added new grade to student ${studentID}'s report card.`)
             notFoundBool = false;
         }
     }
