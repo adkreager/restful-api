@@ -7,7 +7,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/shoaib253/128.jpg",
         "lastCalled": "Thu Aug 08 2019 10:53:16 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 1,
+        "email": 1,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -20,7 +20,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/malgordon/128.jpg",
         "lastCalled": "Sun Jul 21 2019 22:17:18 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 5,
+        "email": 5,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -33,7 +33,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/akmur/128.jpg",
         "lastCalled": "Mon Apr 15 2019 21:46:13 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -46,7 +46,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/mbilalsiddique1/128.jpg",
         "lastCalled": "Sun Aug 11 2019 16:56:19 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -59,7 +59,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/swooshycueb/128.jpg",
         "lastCalled": "Thu Aug 29 2019 16:36:22 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -72,7 +72,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/geobikas/128.jpg",
         "lastCalled": "Fri Sep 06 2019 11:39:52 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -85,7 +85,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/xalionmalik/128.jpg",
         "lastCalled": "Tue Jan 08 2019 17:27:03 GMT-0600 (Central Standard Time)",
-        "timesCalled": 6,
+        "email": 6,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -98,7 +98,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/commadelimited/128.jpg",
         "lastCalled": "Tue Jan 15 2019 19:52:39 GMT-0600 (Central Standard Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -111,7 +111,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/madebybrenton/128.jpg",
         "lastCalled": "Sat Aug 03 2019 11:45:26 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -124,7 +124,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/liminha/128.jpg",
         "lastCalled": "Sun May 26 2019 16:25:47 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 6,
+        "email": 6,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -137,7 +137,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/chrismj83/128.jpg",
         "lastCalled": "Sun Jul 21 2019 15:54:26 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -150,7 +150,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/maximsorokin/128.jpg",
         "lastCalled": "Wed Aug 21 2019 07:46:54 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -163,7 +163,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/lawlbwoy/128.jpg",
         "lastCalled": "Fri Aug 09 2019 20:40:18 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -176,7 +176,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/_vojto/128.jpg",
         "lastCalled": "Sat Apr 13 2019 18:07:33 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -189,7 +189,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/jedbridges/128.jpg",
         "lastCalled": "Mon Dec 17 2018 09:18:20 GMT-0600 (Central Standard Time)",
-        "timesCalled": 7,
+        "email": 7,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -202,7 +202,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/nastya_mane/128.jpg",
         "lastCalled": "Sat Oct 20 2018 07:50:51 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -215,7 +215,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/bcrad/128.jpg",
         "lastCalled": "Thu Jul 04 2019 10:50:02 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 3,
+        "email": 3,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -228,7 +228,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/andreas_pr/128.jpg",
         "lastCalled": "Thu Feb 14 2019 05:30:24 GMT-0600 (Central Standard Time)",
-        "timesCalled": 3,
+        "email": 3,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -241,7 +241,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/mwarkentin/128.jpg",
         "lastCalled": "Mon Aug 26 2019 04:50:23 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 1,
+        "email": 1,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -254,7 +254,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/jonkspr/128.jpg",
         "lastCalled": "Wed Dec 26 2018 06:50:20 GMT-0600 (Central Standard Time)",
-        "timesCalled": 1,
+        "email": 1,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -267,7 +267,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/sawrb/128.jpg",
         "lastCalled": "Mon Sep 23 2019 03:44:45 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 6,
+        "email": 6,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -280,7 +280,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/lisovsky/128.jpg",
         "lastCalled": "Sun Mar 03 2019 00:16:05 GMT-0600 (Central Standard Time)",
-        "timesCalled": 9,
+        "email": 9,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -293,7 +293,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/timmillwood/128.jpg",
         "lastCalled": "Sat Aug 31 2019 22:58:05 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 6,
+        "email": 6,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -306,7 +306,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/kennyadr/128.jpg",
         "lastCalled": "Thu Jun 13 2019 04:38:47 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 5,
+        "email": 5,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -319,7 +319,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/allthingssmitty/128.jpg",
         "lastCalled": "Mon Dec 24 2018 21:14:54 GMT-0600 (Central Standard Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -332,7 +332,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/karthipanraj/128.jpg",
         "lastCalled": "Fri Dec 21 2018 15:27:33 GMT-0600 (Central Standard Time)",
-        "timesCalled": 6,
+        "email": 6,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -345,7 +345,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/jennyshen/128.jpg",
         "lastCalled": "Mon Jul 29 2019 02:27:10 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 8,
+        "email": 8,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -358,7 +358,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/haydn_woods/128.jpg",
         "lastCalled": "Sat May 11 2019 16:35:37 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 5,
+        "email": 5,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -371,7 +371,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/exentrich/128.jpg",
         "lastCalled": "Fri Jan 11 2019 03:23:40 GMT-0600 (Central Standard Time)",
-        "timesCalled": 8,
+        "email": 8,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -384,7 +384,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/davidsasda/128.jpg",
         "lastCalled": "Tue Apr 09 2019 23:03:49 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -397,7 +397,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/abelcabans/128.jpg",
         "lastCalled": "Fri Dec 14 2018 09:47:17 GMT-0600 (Central Standard Time)",
-        "timesCalled": 4,
+        "email": 4,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -410,7 +410,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/yigitpinarbasi/128.jpg",
         "lastCalled": "Tue Jun 25 2019 03:41:41 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -423,7 +423,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/lhausermann/128.jpg",
         "lastCalled": "Fri Jul 19 2019 01:11:14 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 3,
+        "email": 3,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -436,7 +436,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/justinrob/128.jpg",
         "lastCalled": "Tue Apr 30 2019 01:54:11 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -449,7 +449,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/mufaddal_mw/128.jpg",
         "lastCalled": "Sun Jun 30 2019 02:08:04 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -462,7 +462,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/rdsaunders/128.jpg",
         "lastCalled": "Thu Apr 11 2019 15:05:35 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 6,
+        "email": 6,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -475,7 +475,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/aleclarsoniv/128.jpg",
         "lastCalled": "Wed Feb 13 2019 06:52:41 GMT-0600 (Central Standard Time)",
-        "timesCalled": 1,
+        "email": 1,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -488,7 +488,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/marakasina/128.jpg",
         "lastCalled": "Tue Aug 27 2019 23:27:48 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 2,
+        "email": 2,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -501,7 +501,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/derekcramer/128.jpg",
         "lastCalled": "Fri May 03 2019 11:25:30 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -514,7 +514,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/gofrasdesign/128.jpg",
         "lastCalled": "Sat Nov 10 2018 13:31:55 GMT-0600 (Central Standard Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -527,7 +527,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/megdraws/128.jpg",
         "lastCalled": "Fri Apr 26 2019 21:11:09 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 1,
+        "email": 1,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -540,7 +540,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/jodytaggart/128.jpg",
         "lastCalled": "Mon Nov 05 2018 04:50:47 GMT-0600 (Central Standard Time)",
-        "timesCalled": 0,
+        "email": 0,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -553,7 +553,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/arishi_/128.jpg",
         "lastCalled": "Wed Nov 21 2018 11:32:04 GMT-0600 (Central Standard Time)",
-        "timesCalled": 6,
+        "email": 6,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -566,7 +566,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/kkusaa/128.jpg",
         "lastCalled": "Mon Mar 25 2019 09:21:13 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 6,
+        "email": 6,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -579,7 +579,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/scips/128.jpg",
         "lastCalled": "Sat Oct 20 2018 21:15:54 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 3,
+        "email": 3,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -592,7 +592,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/marciotoledo/128.jpg",
         "lastCalled": "Sat Jan 26 2019 15:25:59 GMT-0600 (Central Standard Time)",
-        "timesCalled": 8,
+        "email": 8,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -605,7 +605,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/kevka/128.jpg",
         "lastCalled": "Sat Feb 23 2019 05:51:49 GMT-0600 (Central Standard Time)",
-        "timesCalled": 8,
+        "email": 8,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -618,7 +618,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/areus/128.jpg",
         "lastCalled": "Wed Jul 24 2019 22:47:46 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 1,
+        "email": 1,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -631,7 +631,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/travishines/128.jpg",
         "lastCalled": "Sat Dec 29 2018 21:18:35 GMT-0600 (Central Standard Time)",
-        "timesCalled": 9,
+        "email": 9,
         "grades": [
             "A","B","A","D","F","C"
         ]
@@ -644,7 +644,7 @@
         ],
         "profilePic": "https://s3.amazonaws.com/uifaces/faces/twitter/eduardostuart/128.jpg",
         "lastCalled": "Sun Aug 18 2019 16:15:40 GMT-0500 (Central Daylight Time)",
-        "timesCalled": 8,
+        "email": 8,
         "grades": [
             "A","B","A","D","F","C"
         ]

@@ -56,6 +56,18 @@ app.post('/grades', (req, res) => {
     }
 })
 
+app.post('/register', (req, res) => {
+    /* POST user data using the request body */
+    let studentData = req.body
+    let newStudent = {"studentId": studentData.id, "name": studentData.name, "profilePic": studentData.profilePic, "lastCalled": studentData.lastCalled, "email": studentData.email, "grades": studentData.grades}
+    if (newStudent["name"] && newStudent["email"]) {
+        students.push(newStudent)
+        res.send(`Successfully added ${newStudent["name"][0]} ${newStudent["name"][1]} to the roster.`)
+    } else {
+        res.send('You must enter a valid name and email')
+    }
+})
+
 // app.post('/', (req, res) => {
 //     /* POST user data using the request body */
 //     let studentData = req.body
